@@ -1,3 +1,7 @@
 master first wirte
 
 master second write
+
+dev first write
+
+the conflict resolved by hand
